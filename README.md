@@ -23,3 +23,7 @@ Nothing is implemented yet, coming soon!
 5. Draft
 6. Lineup
 7. Trade
+8. Right to Match
+9. Points Table
+10. Custom Fantasy League
+11. Stats
